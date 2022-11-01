@@ -1,0 +1,3 @@
+[submodule "web/shiny-server-arm-docker"]
+	path = web/shiny-server-arm-docker
+	url = https://github.com/hvalev/shiny-server-arm-docker
